@@ -1,3 +1,6 @@
+//@orga=GoTronic
+//@author=Sylvain G.
+
 #include <genieArduino.h>
 #include <OneWire.h>
 
